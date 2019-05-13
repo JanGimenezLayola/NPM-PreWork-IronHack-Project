@@ -2,48 +2,65 @@
 
 
 h1 {
-  font-size: 5em;
-  font-family: monospace;
+  font-size: 4.5em;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  font-family: sans-serif;
   margin: 0 0 10px 0;
   color: white;
 }
 
 h2 {
   font-size: 3.5em;
-  font-family: monospace;
+  font-family: sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1px;
   margin: 0 0 10px 0;
   color: white;
 }
 
 h3 {
-  font-family: monospace;
+  font-family: sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1px;
   font-size: 1.7em;
   text-align: center;
 }
 
 h4 {
-  font-size: 1.75em;
   color: white;
-  font-family: monospace;
+  font-family: sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  font-size: 1.60em;
+  font-weight: lighter;
+  letter-spacing: 1px;
 }
 
 .center {
   font-size: 1.75em;
+  font-weight: lighter;
+  letter-spacing: 1px;
   color: white;
-  font-family: monospace;
+  font-family: sans-serif;
   text-align: center;
 }
 
 h5 {
   font-size: 1.2em;
+  font-weight: lighter;
+  letter-spacing: 1px;
   color: white;
-  font-family: monospace;
+  font-family: sans-serif;
 }
 
 #collaboration li {
   font-size: 1.75em;
-  font-family: monospace;
-  line-height : 80px;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  font-family: sans-serif;
+  line-height : 50px;
+  top: 30px;
 }
 
 /* nav styles */
@@ -100,14 +117,14 @@ nav a {
   float: left;
   padding: 0 0 0 20px;
   margin: 0.25em 0.75em 0 0em;
-  width: 6em;
+  width: 8em;
 }
 
 .bar {
   float: left;
-  height: 2em;
+  height: 2.6em;
   background-color: rgb(31, 82, 111);
-  width: 1580px;
+  width: 1530px;
   margin: 0.25em 0 0 0;
   border-color: rgb(93, 93, 93)190, 189, 189;
 }
@@ -130,20 +147,21 @@ nav a {
 
 .build-amazing-things {
   position: absolute;
-  left: 11.75%;
-  top: 150px;
+  left: 12%;
+  top: 135px;
   width: 900px;
   height: 0;
   color: white;
-  font-family: monospace
 }
 
 .link-btn {
   background-color: rgb(240, 146, 51);
   color: #fff;
   display: block;
-  font-family: monospace;
-  font-size: 1.75em;
+  font-family: sans-serif;
+  font-size: 1.5em;
+  font-weight: lighter;
+  letter-spacing: 1px;
   margin: 10px 0 0 0;
   padding: 14px 20px;
   text-align: center;
@@ -178,8 +196,10 @@ nav a {
   background-color: rgb(203, 56, 55);
   color: #fff;
   display: block;
-  font-family: monospace;
-  font-size: 1.75em;
+  font-family: sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  font-size: 1.70em;
   margin: 10px 0 30px 20px;
   padding: 14px 20px;
   text-align: center;
@@ -193,15 +213,18 @@ nav a {
   text-align: center;
   color: white;
   text-decoration: none;
-  font-family: monospace;
+  font-family: sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1px;
   font-size: 0.9em;
 }
 
 .or {
-  font-family: monospace;
+  font-family: sans-serif;
   margin: 10px 0 10px 20px;
   font-size: 1.75em;
 }
+
 
 /* section 2 */ 
 
@@ -223,9 +246,11 @@ nav a {
   background-color: rgb(49, 68, 88);
   color: #fff;
   display: block;
-  font-family: monospace;
-  font-size: 1.75em;
-  margin: 5px 0 0 0;
+  font-family: sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  font-size: 1.60em;
+  margin: 3px 0 0 0;
   padding: 13px 20px;
   text-align: center;
   text-decoration: none;
